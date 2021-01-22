@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9fcb8fd-ed3c-471a-945a-42ffea40059f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomePage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj.py" beforeDir="false" afterPath="$PROJECT_DIR$/proj.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,32 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proj.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-start-column="2" selection-end-line="59" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/instapy/instapy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7684">
-              <caret line="471" column="21" selection-start-line="471" selection-start-column="21" selection-end-line="471" selection-end-column="21" />
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -78,6 +57,7 @@
       <find>failed to</find>
       <find>https://www.instagram.com/</find>
       <find>account</find>
+      <find>follow_by_list</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,9 +68,9 @@
       <list>
         <option value="$PROJECT_DIR$/HomePage.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/instapy/instapy.py" />
-        <option value="$PROJECT_DIR$/proj.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/geckodriver.log" />
+        <option value="$PROJECT_DIR$/proj.py" />
       </list>
     </option>
   </component>
@@ -102,8 +82,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="168" />
-    <option name="y" value="15" />
+    <option name="x" value="421" />
+    <option name="y" value="94" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -184,20 +164,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="168" y="15" width="1400" height="1000" extended-state="0" />
+    <frame x="421" y="94" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3656286" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3656286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32871974" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32871974" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -237,23 +218,6 @@
         <state relative-caret-position="-167" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/instapy/instapy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7684">
-          <caret line="471" column="21" selection-start-line="471" selection-start-column="21" selection-end-line="471" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -267,10 +231,24 @@
     <entry file="file://$PROJECT_DIR$/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/instapy/instapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2597">
+          <caret line="4630" column="8" selection-start-line="4630" selection-start-column="8" selection-end-line="4630" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="59" selection-end-column="19" />
         </state>
       </provider>
     </entry>
