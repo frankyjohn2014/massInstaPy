@@ -2,7 +2,7 @@ from instapy import InstaPy
 from instapy.util import smart_run
 
 
-session = InstaPy(username="nail_design_blog", password="3201227QWERT").login()
+session = InstaPy(username="nail_design_blog", password="223221QWE").login()
 with smart_run(session):
 
     session.set_relationship_bounds(enabled=True,
